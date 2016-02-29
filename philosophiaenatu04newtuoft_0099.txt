@@ -1,0 +1,137 @@
+Lama Turnum] PRINCIPIA MATHEMATICA.
+
+(loe-48 A PQ÷ 108·48 P Q T —- 186-0875
+xAPQ—e72075 P QT -Ι- 27.5575 Α P Q,
+
+et reductione fucta fit m χ
+(- les-595 P Q T.)
+
+Haec aequatio negativa est cum apogaeum
+Lunae ex A in C a syzygia ad quadraturam
+procedit, in quadratur& evanescit, nam P Q T
+in quadratura fit zero: si apsis ex C in syzygiam
+Bpergat¹ fitAPET=APQ-2PQT,
+estru=2APT=2AQP—2PQT‚
+quibus valoribus in aequatione substitutis quami-
+tas - 165.595 P Q T ex negativi positiva fit,
+rursus fit negativa cum ex syzygia· B 'ad quad-
+mturam D apogaeum pergit, posmvn iterum ex
+D in„A; evanescit vero in omnibus punctis sy-
+:ygini-um et quadraturamm.
+
+Cor. 1. Ex trigonometrifi notum est, quod
+sinus arcus dupli alterius arcus est duplum facti
+sinus muz simpli per ejus casinum divisum per
+radium3 ideoque constat quod sinus arcus dupli
+alterius arcus est semper ut factum arcus simpli
+per ipsius cosinum3 sed areae Q P T duplum,
+nempearea T Q, P E, et ipsum factum sinus Q P
+arcus A P per ejus casinum T Q, ergo aren
+Q P T est ut sinus arcus dupli arcus A P, aeqm.
+tio autem inventa est ubique ut area ina P Q T
+siquidem constat ex facto illius areae per con-
+stantes ductae3 ergo aequutio proposita est ubique
+ut sinus arcus dupli distantiae apogaei Lunae a
+δμέἕξὲ. Hinc etiam sequitur illam :equatio-
+nem evanescere in syzygiis et quadratuns, ns
+enim in punctis Luna distat a syzygia vel,9o gr.
+vel 180 gr. vel 270 vel 860, quorum arcuum
+duplum ει 180. 360, 540, 720, quorum arcuum
+smus sunt zero.
+
+Cor. 3. Hine etium sequitur hanc aequationem
+esse maximam in omaxitibu53 tunc enirn cum
+apogeum distet a syzygia vel 45 gr. vel 185 vel
+225 ve1815 quorum dupli sum, 90 gr· 270, 450,
+650, &c- et horum arcuum sinus sit radius qui
+omnium sinuum maximus est, sequitur aequa-
+tionem istis sinibus proportionatam hic loci esse
+maximam. ’
+
+Cor. 4. In octantibus haec area P Q„ T est
+ὲ r ², ut notum est, hinc ista aequatio
+
+. 4o.89875><15A Fr⁹f²
+
+evadit W loco
+
+F M²a
+VP⁰¹¹³²¹¹¹A2r
+mg ..-..- 09864 tota quantitas fl!
+
+4o.89875><15><.00298928 r><A Μ ²
+109.7.3. S. A ²
+M 2
+
+sedinventumestqnodeatg-—A
+
+= .0685042‚ et est Ἥ
+
+εενᾷ59082 hinc tm equatio est
+.0911448782 r, sed r est aequalis ar-
+ῗὲἑὸζέὶοθἸΒ, &c- quod ductum per 60 efficit
+829854, et ‚9354 ductum per σο, efficit 56¹¹.
+x Ita ut tota aequatio sit 3'· 56¹¹. &c- ⁷
+
+ 
+
+est f²=0080805r² ς
+
+gr. 29', &c- hinc aquatio est graduum in .
+parnsseln Τ Μ et L M parallela radlo T Ρ.
+
+88
+
+Cor. 5. tte-tonus non unfit qumtitntem
+hujus aequationis qualem illam ex enimus inve.
+nit, sed ait ille, .Hoec aequotio quam semestrem
+vocabo in octantibus apogaei quando mmm ese
+ascendit ad 3'. 45¹2 circiter quantum ετ plumo-
+menis colligere potui. Haec est ejus quantitas in-
+maiam· Solis distanti& a Ter-rd- Scilicet in
+hypothesibus nostris apsidem et Terram immo-
+tam assumpsimus, cnm id reven non sit; ideo-
+que, si concedatur nos attigisse verum Newtoni
+calculum, aequatio per calculum inventa non
+plane endem erit cum vera, parum tamen admo-
+dum αἱ) ini differet3 caeterum omnes aequationis
+verae leges ex iis quae per istum calculum obti-
+nentur merito deducentur, et eae ipsa sunt quae
+in praecedentibus Coroll· sunt constitutae, sed
+absoluta aequationis quantitas ex observmione,
+non ex calculo, est petenda, differunt nutem cal-
+culus et rei veritas 8⁰- duntaxat quod theoriae
+praestantiam sufficienter probat·
+
+De aequatione monis lunaris semestri secunda quae
+pendet ez· positione lineae nodorum, respectu
+linea syzygiarum·
+
+Ex inclinatione orbitae lunaris nd §lanum
+eclipticae fit ut pars actionis Solis consumatur in
+ipso plano orbitae lunaris ad planum eclipticae
+admovendo, sicque tota non occupetur. ut hac·
+tenus suppositum fuerat in distrahendo Lunam
+a Tetrae* centro aut illam ad id attrahendo, aut.
+alio modo Lunam in proprio ejus plano accele-
+rando aut retardando· Hinc aequafionae pn'us
+inventae nova correctione indigent.
+
+PROBL. Ι.
+
+Invenire partem actionis Solis quae Lunam
+seeundum radium ejus orbitae trahit, sublati: ed
+pane unionis Solis quoe consumitur in ipso plano
+orbitae lunaris dimovenda
+
+Sit A T B linea syzygiamm in eclipticae
+plano 3 N T n linea nodorum ; Ρ locus Lffnae
+in propria orbita ; P L, L M directiones virium
+
+ 
+
+quas resolvitur vis Solis, quarum P L est
+
+Ducatur ex Μ in planum orbitae lunaris pro·
+ductum perpendicularis M m, ducatur in piano
+

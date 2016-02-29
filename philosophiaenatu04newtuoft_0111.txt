@@ -1,0 +1,158 @@
+Lmen 'rannus-1 PRINCIPIA MATHEMATICA. 95
+
+† Hisce motuum lunarium computationibus ostendere volui; quod
+motus lunares per theoriam gravitatis a ‚causis suis computari possint.
+
+ι Per eandem theoriam inveni praeterea quod aequatio annua medii motus
+
+Lunae oriatur a varia dilatatione orbis Lunae per vim Solis, juxta Corol. 6.
+
+Prop. LXVI. Lib. Ι.
+
+(¹¹) Haec vis in perigaeo Solis major est, et orbem
+
+Lunae dilatat3 in apogaeo ejus minor est, et orbem iHum contrahi per-
+
+mittit.
+
+In orbe dilatato Luna tardius revolvitur, in contracto citius3 et
+
+aequatio annua, per quam haec inaequalitas compensatur, (ί) in apogaeo et
+perigaeo Solis nulla est, (¹) in mediocri Solis a Terra distantia ad ll'. 5οἸ .
+
+PROBL. ΙΙ.
+
+Χ ι
+
+variationis excentricitatis quantitatem maxi.
+mam determinare.
+
+Hoc Problema nonnisi per determinationem
+verae curvae, quam sequitur Luna, potest deter-
+minari, qua non inventii. ad observationes recur-
+rendum, ut fecisse videtur Newtonus, mediocrem
+excentricitatem esse partium 5505 quarum rap
+dius sit 100000 assumit, et maximum incremen-
+tum vel decrementum assumit 11722}‚ tam ex
+observationibus quam quod ille numerus ad
+concinnandam constructionem pro aequatione
+apogaei commodus esset, ut suo loco dicemus.
+
+illust. cassinus mediocrem illam excentricita-
+tem facit 5⁴30 incrementum vero et decrementum
+
+1086, nec male haec consentiunt cum quantitati· —
+
+bus Prob. 1. inventis, si loco quantitatis indeter-
+
+n
+
+minatae ῐῐῖ scribatur ἐς nam, id incrementum
+
+aut decrementum inventum fuerat
+2 n
+
+'3M2r——A2p
+
+A ,ω , sive accuratius sumptis
+
+quantitatibus quae ad simplicitatem calculi omissae
+fucrant cum excentricitas inventa fuisset f -ὶ-
+
+Μ2 8r⁴><y—²—z²-{-l2r³fy²
+
+ 
+
+ 
+
+2
+
+Azx ,, ⁵. ῖς ψῗι
+2ῃρ ’zi—z, h adit
+
+χαις-ΤΧ τα , aecev (cum ap-
+
+sides sunt in syzygiiset z=o, y=r) f 4
+M²><Q3r÷120÷}:><(4f—p),etcflm
+
+gni in quadraturis ubi z = r et y = o, f -
+{¹ ζ χ s r -ι- {A} χ (4 f÷ p), unde mediocris
+
+ 
+
+excentricitas est f -Ι- {LI—1 >< 10 f, et incremen:
+
+tum vel decrementum, IX ἰ >< W — p.
+M 2
+A 2
+tis. mediocris excentricitae (1 -ὶ-
+
+ 
+
+= .0055 ex prins inven-
+
+¹⁰3 ²) ><
+
+(quam cassinus invenit 5480 et Newtouus 5505)
+est 1.o55 f, hinc est f = 5147 secundum Cas.
+
+cum itaque sit
+
+ 
+
+ 
+
+sinum et 5218 secundum Newtonum‚ quod
+utrumque ductum in .0055, prius efficit 1819„s5
+alterum 18222 cumque p sit 719. id ex priore
+detractum relinquit 110085, ex posteriore 1105.2;
+qui numeri incidunt inter 1172 et 1086quos pro
+excentricitatis variatione assignant Newtonus aut
+Halleius et Cassinus.
+
+(†) θ Hisce motuum, &c- Hoec est enim
+veritatis ejus theoriae fortissima probatio, si ea
+quae mathematice deducuntur ex ea theoria
+apprime consentiant cum phaenomenis iu casu
+mxime composito.
+
+(¹¹) ¹* Haec vis in perigaeo Solis major est et
+orbem Lunae dilatat ,- vis Solis ul quando adjun-
+gitur vi Terrae ut Lunam versus Terram attrabat,
+aliquando idque saepius et ubi fortius agit, vi
+Terrae est opposita, et Lunam a Terra distrahit,
+itaque toto effectu vis Solis simul considerato,
+Luna per eam vim a Terra distrahitur, et co
+magis quo ea vis Solis major est, id26que Luna
+magis a Terra distrahitur dum Terra versatur
+in suo perihelio quam ubi versatur in aphelio:
+hinc primo casu orbita Luuae magis est dilatata
+quam hoc altero.
+
+(ἱ) ¹¹ In apogoeo et perig'oeo Solis nulla esc .· id
+omnino liquet ex Cor. 2· Probl· V· prioris calculi,
+nam ex iis quae in eo Corollatio statuuntur
+liquet quod ut habeatur aequatio quovis in loco,
+haec proportio est instituenda, ut areae eliipseos
+quam Terra describit dimidium ad aream de-
+scriptam a Terra ab aphelio (vel perihelio) usque
+ad eum locum propositum, ita semestris tardatio
+ad tardationem mediocri motui adscriptam, sed
+in hoc casu ea area a Ten-2⁴1 descripta est ipsa
+semi· ellipsis, ergo etiam tardatio medio motui
+adscripta est ipsa semestris tardati03 tum vero
+sumitur ex Probl— lv. tardatio loco dato conve-
+niens quae ex tardatione mediocri tollitur, et dif-
+ferentia est aequatio quaesita3 sed rursus ea tar-
+datio aphelio aut perihelio conveniens est ipsa
+semestris tardatio, ergo, ex tardatione mediocri
+motui eo in loco adscripta, detracta nullum est
+residuum, cum plane sint aequales, ergo aequatio
+in apogaeo ac perigaeo nulla est.
+
+(ἱ) ¹* In mediocri Solis distantia, διο. Viden-
+tur haec verba statuere quid constet ex observa-
+tionibus, nempe hanc aequationem esse 11¹. „50”-
+uhi maxima est, et esse aequationi centri propor-
+tionalem, observavimus autem 111. cassinum
+

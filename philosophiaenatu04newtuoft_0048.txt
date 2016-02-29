@@ -1,0 +1,94 @@
+32
+
+PROPOSITIO XXXI.
+
+PHILOSOPHIAE NATURALIS [De Mum). Srsr.
+
+PROBLEMA XII.
+
+Invenire motum horarium nodorum Lunce in orbe elliptico. (¹)
+
+Designet Q p m a q ellipsin,
+axe majore Q q, minore a b
+descriptam, Q A q B circulum
+circumscriptum, T Terram in
+utriusque centro communi, S
+ἢ Solem, p Lunam in ellipsi mo-
+tam, et p m arcum quem data
+temporis particule quam mini-
+mt‘i describit, N et n hodos line&
+N n junctos, p K et m k per-
+pendicula in axem Q q demissa
+et hinc inde producta, donoc
+occurrant circulo in P et M, et
+lineae nodorum in D et d. (⁸) Et
+si Luna, radio ad Terram duc-
+to, aream describat tempori
+
+ 
+
+proportionalem, erit motus horarius nodi in ellipsi ut area p D d m et
+
+A Z q conjunctim.
+
+(¹) * In orbe elliptico, illo nempe orbe in quem
+figura circularis orbitae lunaris mutatur per ac-
+tionem Solis, quique axem habet majorem ad
+axem minorem in ratione 70. ad 69. per Prop.
+
+XXVIII. hujusce.
+
+(⁸) '⁶ Et si Luna radio ad Terram ducto de-
+scribat aream tempori proportionalem, &c. Liquet
+ex Prop. XXVIII. Lunam hane ellipsim
+de quei agitur ita non describere ut areae sint
+temporibus proportionales, sed haec hypothesis
+ad solutionem hujus Problematis erit necessaria3
+ut scilicet Luna possit fingi versari in puncto p
+ordinatae P K eodem tempore quo si circulum
+describeret in ejus extremitate P versata esset,
+quod tunc tautum obtineret si haec ellipsis im
+describatur ut areae sint proportionales tempori-
+bus; notum enim est areas ellipticas T p Q
+proportionales fore areis T P Q, areas T P Q
+proportionales esse arcubus P Q, arcus vero
+
+“ Ρ Q proportionales temporibus, si quidem Luna
+
+citra Solis actionem in circulo lata, uniformiter
+moveretur.
+
+Verum haec falsa hypothesis corrigitur in ea
+solutionis hujus Problematis parte quae post Co-
+ronan-ium adjicitur.
+
+(²) ⁹ Conveniam autem 11ae tangentes in axe
+
+T Q ad Y. Liquet ex not. 257. Lib. 1. quod
+si duoe curvae communem axem habentes, sint
+tales ut ipsarum ordinatae datam inter se ratio-
+nem servent, etin summo ordinatarum corre·-
+pondentium ducantur tangentes. illae tangentes
+in eodem axeos puncto concurrunt; nam cum
+ordinatae datam rationem servent (ex Hypoth.)
+oportet ut ipsarum fluxiones eamdem etiam ser·
+vent rationem, ita ut ratio fluxionis ordinate nd
+ordinatam ipsam, eadem sit in utrisque curvi.
+Est vero semper fluxio ordinatoe ad ordinatam ut
+fluxio abscissae ad subtangentem ; ergo in hnc
+hypothesi, ratio fluxionis abscissae ad subtangen-
+tem est etiam eadem iu uti-iique curva, sed fluxio
+abscisse ipsa est endem pro utrinque curui, ergo
+etism subtangens eadem est, hine itaque tan-
+gentes in extremitatibus ordinatarum correspon-
+dentium ducta in eodem puncto axem attingunt
+quando utriusque curvae ordinatae ad eadem axem
+puncta pertinentes, constantem rationem servante
+notum autem est, ex not. 247. Lib. 1. quod n*
+circulus describatur super axem ellipseos, oudi-
+natae circuli et ellipseos erunt inter se in ratione
+dati. axeos communis circulo et ellipsi ad alterum
+axem‚siveesse PK ad pK utA T nd ιΤ.
+hinc ergo tangentes in punctis P et p ductae axi
+occurrent in eodem puncto Y.
+

@@ -1,0 +1,139 @@
+Lmen Titanus] PRINCIPIA MATHEMATICA. 41
+
+{Az ut ATq ad 9,0827646ATq 4- AZq;(‹1)rectangulum dZ
+in Z Y designabit decrementum temporis‘ ex motu nodi oriundum, tem-
+pore toto quo arcus> A a percurritur. (¹) Et si punctum d tangit curvam
+
+(q) ¹* Rectangulum d Z in Z Y designabit de· eorum temporum est ad prius tempus ut A Z q
+crementum temporis α· motu nodi οτίιιηιίτιηις ad 9.08‘27646 A T q -Ι- A Z q, sed, ex hypo-
+nam, ex superioribus tempus quo Sol percurrit thesi. sectoris particula A T a designat prius
+arcum A a sine motu nodi, est ad tempus quo tempus ea ergo quantitas d Z χ Ζ Υ quae est
+Sola nodo discedet eo arcu A a si (ipse nodus nd A T a ut A Z q ad 9.0827646 A T q -Ι-
+moveatur) ut 9-0827646 A Τ q 4 A Z q ad A Z q capr-inm decrementum temporis ez motu
+9.0827646 A Τ q; hinc convertendo, differentia nodi oriundum.
+
+(Ἴ *⁸ Ee si punctum d tangit curvam N d G ‘n- Numerus 560 designeturper a, numerus
+{r25
+
+ 
+
+39,6555 dieamr b, ide63ue 9.os27e46 sit ξ, A 'r dicatur r, et A z, y, eritque d z =
+
+ἐτ’-Μ’
+πῦῆ-ξ-’.ἶτ-ῖζ, etin puncto T ubi ΛΖ εναᾱῑιᾼτεῑνευωιῑηξ,ωιᾱΖΞξ-ἰὶε
+
+ 
+
+20· 16ῐ55292 3 ita ut d Z ad vicesimam radii partem nusquam assurgat.
+
+ 
+
+ 
+
+Est autem exnaturficirculiTZ=Vrr—yy‚etTZadAZutfluxioordinatae ΑΖ ad
+
+ 
+
+ 
+
+ 
+
+ 
+
+ZY,ide6queZY= ’ἀγ ,ὴίηεώεωευωωάΖχΖΥξ-ἓῖᾈᾎὲτ-
+2 Mrr——yy ’ἆ (ax²†by²)4lrr-—yy
+et elementum segmenti N A Z est VZr—yy-y.
+
+ 
+
+γ’ y⁴ 5⁶ 55⁸ Um&
+
+ 
+
+ 
+
+ 
+
+ 
+
+Esst veroqlrr—yy aequalis serieIr—§ss—g-r-3—-w—ss3—l—2-§r—7-ffi3, c.
+² 2 4 3 ⁶ 5 8 35 ιο 63 12
+,ξ Χεἴ411-3-Π“Β“Ῑ““Π”“”ΨΜ,“ι“”4“<ἶ>ῐι“”3“1““εἷςψῖεῖγῖᾞψκ.>εἷι9“1“ἰςσγῖῐν ‘⁸¹⁰'
+
+quoe series parum eonvergit quando y accedit ad valorem r, unde prudenter ωε adhibenda.
+Muitiplicenu vero haec serioe per d y et fiat integratio, obtinetur sequens series quae exprimit
+
+555555 1< A 2, - ÷ 43 i 4 ÷ 453454 ÷ 4545 ÷ 5454354
+quae series 1³²er convergit quando y = ι· sed tune segmentum N A Z ει quadrffl' cfrmffi qui
+
+per alias commodiores approximationes obtinetur.
+
+&c-
+
+ 
+
+ 
+
+ 
+
+ 
+
+by² b²5⁴-b³y⁶
+
+Dividatur{br²perar²÷by²‚fitseries2—b; X(l—3-3†⁸²r4 331μὸ-1-
+b
+
+quae plurimum conver-git propter dignitates crescentes fractionis ἶ quae est circiter ᾖ.
+
+b⁴y⁸
+a⁴r⁸’
+
+ἃς.)
+
+ 
+
+ 
+
+ 
+
+y-Z—2- superius inventa et obtinebitur haec
+
+Multiplicetur itaque per hanc seriem, series V r r y y
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+——÷—÷-÷—÷÷
+ἐι -5-5 >< - ÷ 5543 ÷ 5355 ÷
+Ξ 5->< 53 ÷ 54553 ÷
+: -5->< ³ 15÷312÷2111‚a0-
+
+ 
+
+ 
+
+ 
+
+et multiplicetur haec series per d y et integretur, fiet series quae exhibebit vasorem areae N d 2
+

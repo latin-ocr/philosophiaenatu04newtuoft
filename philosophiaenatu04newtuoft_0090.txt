@@ -1,0 +1,143 @@
+74·
+
+PHILOSOPHIAE NATURAMS [DE'MUND. svsr.
+
+ 
+
+ut area prioris ellipseos ad aream alterius, ellipses
+iuae similes esse debebunt, hoc est earum ellipsi-
+um axes majores erunt inter se ut sunt inter se
+earum minores axes, v. gr. si semi-axis major
+ellipseos N A N dicatur r, ejus minor semi-axis
+dicatur q et major semi-axis ellipseos n an dica-
+tur g, ejus minor semi-axis κ, dico quod erit q ad
+x ut est r ad ς.
+
+Ex natura ellipsium area ellipseos N A N est
+ad aream ellipseos n a n ut est r q ad ρ κ, et ex
+hypothesi tempus periodicum in ellipsi N A N
+est ιιὰ tempus periodicum in ellipsi n a n in
+
+eadem ratione ι· q a‘d ι· ιι, si ergo sumantur arcus
+similes A A, 8 a in mediocri distantia in utraque
+ellipsi, tempora quibus describentur illi arcus
+erunt ut tota tempora periodica, quia illi arcus
+A A, a a in mediocri distantia positi describun-
+tur motu medio corporum eas ellipses describen-
+tium, et erunt etiam ut areae A S A et a s 8 ex
+hypothesi, et istae areae A S A et a s 8, sunt ut
+quadrata linearum S A et s a sive ut r ² ad ρ ² ;
+ergo est ι· 2 ad g 2 ut rq ad ς κ, et dividendo ter-
+minos homologos per r et g est r ad g ut q ad κ ;
+ergo ellipsae sunt similes. Q. e. d.
+
+ 
+
+THEOR. ΙΙ.
+
+Sint, ut prius, duae ellipses descriptae circa
+corpora neutralia in ipsarum focis posita quorum
+vires absolutae diversae sint, et sint tempora peri-
+odica in utraique ellipsi ut earum ellipsium areae,
+dico quod axes majores earum ellipsium erunt
+reciproce ut vires absolutae corporum centralium.
+
+Vis absoluta corporis S dicatur V, corporis s
+dicatur V — Y, ducantur in um'ique ellipsi
+lineae S P, s p ad lineas apsidum S N, s n si·
+militer inclinatm, et iis proximae ducantur lineae
+S Q, s q angulos similes P S Q, p s q constitu-
+entes, ducantur ex Q et q perpendiculares Q T,
+q t in lineas S P, s p, et productis lineis S Q, s q
+donec occurrant tangentibus in R. et r, erunt
+Q R, q r virium centralium effectus dum descri-
+buntur arcus P Q, p q.
+
+Primo quidem ex hypothesi, tempora quibus·
+describentur ii arcus P Q, p q erunt ut areae
+P S Q, p s q, et quia, ex const. illae areae sunt
+similes, erunt ut quadrata linearum homologarum
+sive ut S P 2 ad sp² aut QT² ad q t²· Sunt
+autem virium neutralium effectus, directe ut vires
+
+centrales et ut quadrata temporum, vires vero
+
+centrales sunt ut ἕ-ζῆ ad ζ-ἏΥ
+, Ρ
+
+temporum sunt ut SP4vadsp4‚ ergo 11¹¹&ae Q R
+>< S P ⁴ ad
+
+, et quadrata
+
+ 
+
+et q r erunt inter se ut
+
+ 
+
+SP²
+
+ι sp²
+
+v-
+
+Exsp4siveut⁷v><sp2adVLTY
+
+ 
+
+Χ sp:,autdeniqueutv>< QT2ad‘U
+Χιὸξὲεξινὶάο. Ιιι omnibus ellipsibus per vim cen.
+
+tralem ex foco prodeuntem descriptis latus ¹rec-
+2
+
+Lib. 1. Princip. (Si {itaque latus rectum ellipseos
+N A N sit L, ellipseos verdn an sit λ, erit L =
+
+tum est aequale
+
+ 
+
+ut constat ex Prop. XI.
+
+ 
+
+ 
+
+QT2 qt² .
+ΩΒ ειλ-τ- qr‚locoQRetqrquant1tates
+ipsis proportionales V χ Q T ² et V - Y χ
+
+ 
+
+QT².
+νΧΩΤ2
+
+; sed ex
+
+q t ² collocentur, et erit L ad λ ιιι
+
+adfvffig sive ut ὲ ad l
+
+natura ellipsium, est L =
+
+ 
+
+v-Y
+
+9-2 et λ - '‘—2 rn-
+r '— g ’ p
+
+terea quia ellipses sunt similes, ex praecedente
+Theoremate, est q ε ι· = ιι = ς, ideoque {- = -25
+est ergo L ι λ ιιι q ad κ sive ut r ad ςς itaqfie
+
+estrade'utsslt-ad ῦ-Ῑ-Υ. Q. e. d.
+
+Cor. In his itaque hypothesibus tempora pe·
+riodica erunt inverse ut quadrata virium absolu-
+tarum corporum S et ες sunt enim per Theor. 1.
+
+ 
+

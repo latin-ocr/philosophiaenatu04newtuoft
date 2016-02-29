@@ -1,0 +1,148 @@
+Lmnn Tmrrms] PRINCIPIA MATHEMATICA 37
+
+duoaequaliter ab octante hinc inde distantia, et alia duo 'a syzygia et
+quadratura iisdem intervallis distantia, deque decrementis motuum in
+locis duobus inter syzygiam et octantem, subducantur incrementa motuum
+
+‘in locis reliquis duobus, quae sunt inter octantem et quadraturam3 decre-
+
+mentum reliquum aequale erit decremento in syzygia: uti rationem ineunti
+facile constabit. (g) Proindeque decrementum mediocre, quod de nodo-
+rum motu mediocri subduci debet, est pars quarta decrementi in syzygia
+
+intervallis D A, G N quoe aequalia sint inter se,
+et eadem ac intervalia M E, M F, sumantur
+decrementa motus nodorum in punctis E et D
+et ex summa eorum decrementorum subducatur
+summa incrementorum in punctis G et F, et
+residuum erit ipsum decrementum in syzygia A.
+
+Etenim, per praecedentia, decrementa sive in-
+crementa sunt ut motus totus nodorum et differ-
+entia quadrati sinus distantiae Lunae a quadratura
+et semissis radii conjunctim ; est vero motus
+totus nodorum ut contentum sub sinubus dis-
+tantiarum Lunae a quadratura, Lunae a nodo, a
+nodi a Sole (per Prop· XXX.) sinus autem
+distantiae nodi a Sole in hoc casu est ipse radius,
+estque constans pro omnibus incrementis decre·
+mentisque assumendis, distantia verd Lunae a
+nodo cadem est ac distantia Lunae a quadratura,
+cum nodi sint in quadraturis ; ergo motus totus
+nodorum est ut quadratum sinus distantiae Lunae
+a quadratura, et decrementa sive incrementa sunt
+ut contentum sub quadrato sinus distantiae Lunae
+a quadratura et spb differentia ejusdem quadrati
+et semissis radii.
+
+Dicatur itaque radius r, sinus arcus N G
+dicatur s, erit incrementum motus nodorum in
+Gutssx {rr-sasivegr2s2—s4.
+
+Ut obtineatur incrementum motus nodorum
+in F, observandum, quod siquidem arcus F M
+est aequalis arcui N G cujus sinus est s, et N F
+4- F M est aequaiis octanti cujus sinus est r 4! ,ξ-
+et per principia trigonometrica, sinus arcus qui
+est differentia duorum arcuum quorum sinus
+
+sunt dati, est aequalis differentiae factorum sinus*
+
+majoris arcus per casinum minoris et sinus mi-
+noris arcus per cosinum majoris, divisae per
+radium, hinc sinus arcus F N est aequalis
+
+τνὲκνυ-π-ετνὲενὲχ
+
+ι·
+4! r r — s s — s Μ ἦ, itaque incrementum 'no-
+
+ 
+
+ 
+
+dorumin Ferit} χ ἷτ-ἹῘΞ-ςγ ττ-εε-ῇ-Ξέ
+
+ 
+
+>< ξιτ-ξτ-ιῗΞ-Ξ-ὶ-ςγ rr—ss——2-
+sive deletis terminis aequalibus et oppositis
+
+{rr—sffrr—stxsffrr—s,-s3a
+multiplicatione sacta -ξ r² s ν r r — ss—
+r ² s ² -1- s 4. Ideoque summa incrementorum
+
+—-
+
+inGetFest-312s4l rr—ss—{r²s².
+
+ 
+
+ 
+
+Sinus autem in E et D sunt cosinus’arcuum
+F et G, ergo quadratum sinus arcus N E est
+
+rr—{xrr—ss-ksffrr—ss—{ss
+
+= {- r r 4- s 4! 33 ideoque decremen-
+tum motus nodorum in E ost ἑ r r-{- s ><
+
+4! rr—ssx({rr÷s4lrr—ss)—2}rr
+
+={r²s·5l rr—-ss-br2ss—s4.
+Quadratum sinus arcus N D est r r— s s,
+
+ideoque decrementum motus nodorum in D est
+
+rr—ssx rr—ss—‡⁴rr=⁴}r⁴—
+Ξ- r ² s ² 4 s ⁴5 sicque summa decrementorum
+eetffr4-ff-{r2s4l rr——ss—{r2s².
+Denique in ipsa syzygia quadratum sinus arcus
+N D at r r ideoque decrementum motus nodo-
+rum in syzygia estr²>< r²—‡r²={r⁴.
+si ergo ex summa decrementorum quae iuventa
+ιηξτ* -Ι- {1²⁵ μιν - ss — {r2s2
+detrahatur summa incrementorum quae inventa
+aetffr²s4lrr—ss—{r2s2decremento-
+rum residuum est ipsum ἦ r 4 quod decrementum
+motus nodorum in syzygia exprimet. Q. e. d.
+
+(⁸) *³ proindeque decrementum mediocre, &c-
+In toto arcu N A, puncta assumantur quarn
+proxima quotquot lubebit, quae quaternatim su-
+mantur, ita ut quatuor quae simul assumuntur
+ita disponantur ut duo ab octante aequaliter
+distent hincinde, et alia duo tantumdem a syzy-
+gia et quadratura distent; decrementum motus
+nodorum in duobus punctis quae sunt inter syzy-
+giam et octantem superat incrementum ejus
+motus in aliis duobus punctis quantitate aequali
+decremento in ipsa syzygi53 si itaque motus
+mediocris assumendus sit, id decrementum quad-
+rifariam dividi debet, et de motu mediocri singula
+quarta pars detrahi debet, sic enim motus medio-
+cris ille aequipollebit motui vero peracto in illis
+quatuor punctis simul sumptis; ille decrementi
+excessus idem est pro quibusvis punctis ita qua-
+ternatim sumptis, itaque motus mediocris nodo-
+rum in omnibus punctis, adjecta consideratione
+inaequalitatis motus Lunae ex actione Solis ortae,
+erit motus mediocris nodorum prius inventus,
+multatus quarta parte iuius. decrementi.
+
+cum ergo ille excessus decrementorum super
+incrementa sit ipsum decrementum motus in
+syzygia seorsim considerata, et id decrmneutum
+in syzygia seorsim inventum sit, dccrenwmum
+mediocre, quod de nodorum motu mediam-i sub*
+duci debet, est pars quarta dccv-metui ivi syzygid.
+
+ 
+
+ 
+
+ 
+
+ 
+

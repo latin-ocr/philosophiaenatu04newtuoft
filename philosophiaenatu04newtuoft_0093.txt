@@ -1,0 +1,227 @@
+me Tuumne] PRINCIPIA MATHEMATICA.
+
+11. earum lineae homologae sunt ut uires abso-
+
+lutae corporum centralium inverse, seu ut vires
+
+quas habent in distantiis aequalibus, nempe in·
+³
+
+3¹- Y
+1· ³
+
+ad V, ita x ad distantiam homologam in nova
+x V 1¹³ x V
+
+meutv—lss-gYadV,ergoutv—
+
+ 
+
+orbitss quae exit ergo
+
+ 
+
+(be-d.
+
+THEOR. VIII.
+
+centro S, radio aequali mediocri distantiae r,
+describatur circulus, arcus ejus π X inter lineas
+S P, S Q interceptus dicatur d u; dieo prim&
+quods Luna in eo circulo uniformiter moveri
+posset eodem tempore periodico quo moveretur
+iu'propriz‘i orbita si abesset vis Solis, idc6que si
+tempus periodicum Lunae in propria orbita di.
+αιῑιιι· Μ, et tota peripheria circuli cujus radius
+cst r, dicatur c, tempus quo arcus d ιι describetur
+mediocri Lunae motu citra Solis actionem erit
+
+M d υς 2. cum sit ι· semi—axis major orbitae
+
+ 
+
+c
+lunaris, si dicatur q ejus axis minor, dico quod
+tempus quo idem ille arcus d u describi videbitur
+urgente Solis actione et spectata excentricitate
+, . · , Μ cd u x ² 2 x 5 Y
+orbltae lunans ent c ξας r -}- q r 4 v
+3 x ⁸ Y²
+q r 7 V 2, ὅτε..)
+
+Primo enim liquet quod is circulus describetur
+eo tempore periodico quo describeretur orbita
+elliptica lunaris si sola vis Telluris agat, nam si
+corpora plura circa centrum commune revolvan-
+tur in quibuscumque ellipsibus, tempora eorum
+periodica sunt in sesquiplicatfi ratione axium
+majorum (per Prop- XV. Lib. Ι. Princip. Newt.)
+sed hujus circuli et orbitae lunaris axes majores
+sunt aequales (per const.) ; ergo eorum tempora
+periodica sunt aequalia.
+
+Secunda dicatur E tota superficies ellipseos
+orbitae lunaris, haec superficies E erit ad aream
+S Q P ut tempus periodicum M 'ad tempus
+quo arcus P Q describeretur, quod erit ergo
+S Q. P >< Μ
+
+9T>2<S‘1'‚sedmm1au‚insaevesp
+
+xdu QT><SP
+
+ 
+
+4.
+
+ 
+
+ 
+
+valor aut·- areae S P Q est
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(x)adQT,estergoQT= r et 2
+= Χέἶιι hinc tempus quo Luna in proprii
+
+orbita citra Solis action- descn’beret arcum
+
+Q P, est Met-¹3 u. Hoc autem tempus erit
+
+ad illud quo describeretur similis arcus in orbita
+in quam Luna per actionem Solis defertur, ut
+quadrata radiorum seu (per Theor. praec.) ut x x
+
+ 
+
+ 
+
+ 
+
+r³V
+
+77
+
+2 x ⁵ Y . , . . . .
+(ιι x -ὶ- r ³ V ), sive cum seml-axns mmor orbntae
+
+lunaris dicatur q et area ellipseos E sit ideo
+’ ἦ q c, tempus quo arcus d ιι describi videbitur a
+Luna translata per actionem Solis in aliam orbi-
+
+tam flet Md¹¹><(g÷‘“’¹⁵v÷,&c.).
+
+4
+Cor. l. {x ipsa demongtiatidia'e liquet quod
+tempus quo citra Solis actionem describeretur
+
+area S P Q foret Med u Χ L} et discrepantia
+illius quantitatis a motu ιιιίέόῐο in aequatione
+Lunae, quae dicitur soluta, continentur: .exlples3us
+
+u
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ver& (vel defectus si vis Y fiat negativa)
+2 x 5 Y
+
+c
+
+per Solis actionem genitus novam
+
+ 
+
+Χ
+mogi} ιζιέἰιί perturbationem producit, de qua hie
+
+  
+
+⁴ N
+
+agendum M esi-go, siquidem per medium motum
+u
+
+c
+
+ 
+
+arcus d u descriptus fuisset,
+
+Mdu ‘2st
+c qr⁴V
+
+describi potuisset, eaque quantitate
+
+tempore
+
+tempore hujus excessus
+
+2 x 5 Y d u
+q r 4 V
+graduum tardatur medius motus Lunae propter
+actionem Solis secundum directionem radii or-
+
+bitae lunaris exercitam.
+
+Cor. 2· Iisdem vero ratiociniis quibus usi
+sumus in solutione Probl. Ἰ. calculi praecedentis
+constabit, quod propter accelerationem quae ori-
+tur per actionem Solis perpendiculariter in ra-
+diuusi §argiae lunaris exercitam, haec retardatio
+2 x u
+
+ 
+
+arcus
+
+Χ
+
+ 
+
+ 
+
+ 
+
+ 
+
+q r 4 v debet minui iu proportione 1 ad 1 —
+ο 2
+
+LEMMA, 1.
+
+Ex praecedentis calculi Lemmate II. constat
+quod si ex puncto π ducatur perpendicularis v E
+in lineam apsidum, et exceum'citas dicatur f, erit
+
+q ² r
+r 2 :p f χ F E·
+
+Nulla enim est differentia nisi in litteris, quae
+diversoe sunt quia bic' agitur de orbita elliptica
+Lunae, illic de orbita emptica Telluris, caeterum
+eadem oet demonstratio.
+
+Hic autem valor in seriem redactus evadet
+
+Fnsivex=
+
+F2
+

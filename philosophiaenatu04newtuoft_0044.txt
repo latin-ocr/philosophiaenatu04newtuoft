@@ -1,0 +1,107 @@
+28
+
+Casus 1. Sint. Q T P et N T P negativi,
+solus S T N sit positivus, distet P a nodo N
+minus tribus quadrantibus, sive minus quadrante
+a puncto n, idque in consequentia, retroprodu-
+cendae erunt lineae P M, P L, ut P M lineae
+nodorum occurrat in m, et L P in l vicinius
+soli, hinc A Τ 1 minor erit A T m et ideo A T V
+major qutim A T N, sed punctum N est in an-
+tecedentia respectu puncti A. ergo V estin an-
+tecedentia respectu puncti N, ergo nodus regre-
+
+ 
+
+ditur; distet P ab N plus tribus quadrantibus,
+antron-sum producendae sunt lineae P M, P L ut
+occurrant lineae nodorum et 1 manebit a Sole
+remotius quam m, et angulus A T i major erit
+angulo A T N, regreditur ergo nodus.
+Cas. 2. Sint Q T P et S T N
+negativi, solus vero N T P positivus,
+sit N P minor quadrante‚retroproduc-
+tis lineis, cum L sit remotius a Sole
+quam M. erit l ob decussationem li-
+nearum propius Soli et angulus A T 1
+sive ‚A T V minor angulo A T N,
+sed quia hic angulus est negativuS,
+complementa ad quatuor rectos erunt ,
+sumenda, et arcus A Ω P V major erit '
+arcu A Q P N, ergo nodus regreditur.
+Sit N P major quadrante, lineis
+P M, P L productis occurrent eclip-
+ticae a parte puncti n, et propter ane-
+gulum Q T P negativum cum P sit
+in semi-circulo q B Ω erit l ut et L
+remotius a Sole quam ιιι et M, ideo
+angulus A T n minor est angulo
+A T i et complementum prioris an-
+guli A T N major est angulo A T V, sed A est
+iu antecedentia respectu puncti N, ergo etiam V
+est in antecedentia respectu puncti N, regreditur
+ergo nodus. ·
+Cas. 3. Sint S T N et N T P negativi, QTP
+vero positivus, punctum L est ubivis propius
+Soli quam M, si P minus trihus quadrantibus
+distet ab N, retroproducendae sunt lineae P M,
+P L, a parte puncti n et erit A Τ] majus quam
+A T n, aed quia S T N eat negativus, ιι est in
+
+PHILOSOPHIAE NATURALIS [Dr. Munn. Sira-r.
+
+semi-circulo superiori A Ω Β, et n estin ante-
+cedentia respectu A, ideoque 1 est in anteceden-
+tia respectu n, ut etiam Vrespectu N, regreditur
+ergo nodus, sit N P tribus quadrantibus major,
+lineae P Μ, P L antrorsum sunt producendae, 1
+erit propius Soli quiim m, et A T 1 sive A Τ V
+minor quam A T N. sed quia A T N est nega-
+tivus, ideoque A est in antecedentia respectu
+puncti N, erit etiam V in anteoedentia respectu
+puncti N, regreditur ergo nodus.
+
+Art. 4. si tres anguli Ω Τ P,
+
+. N T P, s T N sint negativi, motus ‘
+
+ex regressivo progressivus fiet3 ut
+hypothesis hujus articuli obtineat,
+oportet ut nodus N et Luna P sitin
+quadrante q B; nam cum angulus
+Ω Τ Ρ sit negativus, P debet esse
+in semi—circulo q 13 Ως cum STN
+sit negativus, N debet esse in semi·
+circulo A q B, et cum N T P sit
+negativus, N debet esse in consequen-
+tia respectu P; ergo, N non potest
+versari in quadrante A q. nec P
+in quadrante B Q: antrorsum ergo
+erunt *producendae lineae P M, P L
+ut eclipticae occurrant, erit l remo-
+tius a Sole quarn m, et angulus ATV
+major angulo A T N, sed hic angu-
+lus est negativus, sive est N in oon-
+flequentia respectu A, erit ergo etiam
+V in consequentia respectu puncti
+N, nodus itaque progreditur.
+
+His positis dico, quod motus nodi progressi-
+vus evadit dum Luna versatur inter alterutrum
+nodum et quadraturam ipsi proximam; quad-
+raturam nodo proximam vocat Newtouus, si
+
+ 
+
+quadri-ture a nodo distantia quadrante major
+non sit„ ’
+
+Sit enim angulus A T N positivus, quoniam
+Luna sive punctum P est inter puncta Ω et N
+vel q et n ex hypothesi, alteruter ex anguli·
+Ω Τ P, N T P erit positivus, alter negativum
+nam sit N vel ιι in semi-circuio Q B q, tum uin
+P estititer Qvelqet N vel n, erit Pine ⁴em
+semi-cirtulo Q Β q. ἰάεόῳιε. angulus Q Τ 1²
+erit negativuS, sed angulus N T P erit positivus,
+

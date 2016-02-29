@@ -1,0 +1,100 @@
+l
+
+anu Tannus] PRINCIPIA MATHEMATICA. 17
+
+PROPOSITIO XXIX. PROBLEMA X.
+Invenire variationem Lunae.
+
+(¹¹) Oritur haec inaequalitas partim ex form& ellipticfa orbis mnaris,
+partim ex inaequalitate momentorum areae, quam Luna radio ad Terram
+ducto describit. Si Luna P in ellipsi D B C A circa Terram in centro
+ellipseos quiescentem moveretur, et radio T P ad Terram ducto descri-
+beret aream C T P tempori proportionalem ε esset autem ellipseos semi-
+diameter maxima C T ad semi-diametrum minimam T A ut 70 ad 69 :
+
+(¹) foret tangens anguli C T P ad tangentem anguli motus medii a quad-
+
+(“’) ” Oritur haec inaeqmlitas‚ &c- Pergit
+Newtonus in hypothesi quod semota Solis actione
+orbis Lunae circularis foret; in praecedenti vero
+propositione, determinavit quamnam mutationem
+'induceret illi circulo vis Solis, quotenus ea ejus
+
+*portio assumitur quae ad centrum Terra spectat
+et cum gravitate Lunae versus Terram sociatur;
+itaque, sumpto novam figuram orbis lunaris ad
+
+centrum T sint temporibus proportionales, de-
+scribatur circulus eodem centro, radio T C, in
+ejus circuli circumferentia moveatur Luna motu
+medio, sumaturque in eo circulo arcus C Π
+tempori cuivis dato proportionalis, ducta ordinata
+Π Ρ K, dico quod area elliptica Τ C P erit
+tempori proportionalis, hoc est quod tota area
+elliptica erit ad eum sectorem T C P ut est tem-
+
+pus periodicum Lunae ad tempus datum.
+
+Est enim tota circuli circumferentia ad arcun·
+C Π, sive totus circulus ad aream C T n, ut
+tempus periodicum toturn ad tempus datum cx
+constructione, sed ex noti cirmli et ellipseos
+proprietate, est totnarea elliptica ad totam aream
+circuli ut T A ad C T, et pariter est sector
+
+ellipsim posse revocari, demonstrat iu Prop-
+praecedente enm ellipsim talemense ut axis major
+sit ad minorem ut 70 ad 69; motus autem Lunae
+iu tali cllipsi debet fieri ita ut areae descriptae
+circa centrum Terrae sint temporibus proportio-
+nalae, quia vires quae assumuntur, ad id centrum
+diriguntur; cumque areae iuae ellipticae, angu-
+lis‘in centro factis proportionales non sint,
+sequitur illos angulos in centro sacto tempo-
+ribus proportionales non esse, ideoque aliquid
+corrigendum esse motui medio Lunae, iu quo
+anguli in centro Terrae facti proportionales
+temporibus assumuntur, ut habeatur Lunae
+motus verus3 et haec correctio constituet
+partem variationis, quae est, in hac hypothesi,
+arcus interceptus inter locum medium Lu-
+nae et locum e‘us verum, et haec pars varia—
+tionis ea· a εΗίριίι-ᾶ, quam assumit orbis
+lunaris per Solis actionem, oritur.
+
+Altera pars variationis oritur ex es actio-
+nis Solis parte quam consideravit N ewtonus
+Prop. XXVI. et qua fit ut ipsae areae a
+Luna descriptae temporibus non sint pro-
+portionales; area itaque tempori proportio.
+nelis corrigenda est, idque detrahendum
+vel addendum quod debetur illi actioni, quod.
+que per constructionem Probl. nostri n. 112.
+determinare facillimum erit ; quam quidem
+constructionem non dedit Newtonus, quasi me-
+diocribus uteretur quantitatibus ex aequo, ut
+aiunt, et bono mumptis, verum vix dubitandum
+quin ad hanc vel similem constructionem, re-
+spexerit, ii enim non erant casus quibus haec
+media sine demonstratione assumi possent a viro
+summe accurato et perspicace-
+
+(²) ⁸ Fure-t anguli tangem- Sit C A D Β
+ellipsis qnam Luna describit, ita ut areae cirea
+
+ 
+
+CTP ad CTnutTAadCT(namtrian·
+gula rectilineaTPK‚ ΤΠ Κ sunt ut bases
+P K, Π Κ; areae curvilineae C P K, C 11 Κ
+sunt etiam, ex nota ellipseos et circuli proprietate
+ut P K ad Π K, ergo toti sectores CTP,
+CTnsuntutPKadn KquaesuntutTA
+ad C T,) ergo tota area elliptica est ad amm
+circuli ut sector C T P ad C T n, et alternando,
+tota area elliptica ad sectorem C T P, ut est
+circuli area ad C T Π, seu ut est tempus perio-
+dicum, ad tempus datum.
+
+Si ergo area C T P sit tempori proportionalis,
+

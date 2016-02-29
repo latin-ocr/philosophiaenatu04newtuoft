@@ -1,0 +1,56 @@
+Lmen mama] PRINCIPIA MATHEMATICA. · 163
+
+M N 8475, N P 25. Unde ad operationem secundam collegi distant-iam
+t b( 5640. Et per hanc operationem tandem distantias T X 4775 et
+ι· Ζ 11322. Ex quibus orbem definiendo, inveni nodos ejus descenden-
+tem in 25 et ascendentem in 1‘8 1¹3¹. 53' 3 inclinationem plani ejus 'ad pla-
+num eclipticae 613‘. 20? 3 verticem ejus (seu perihelium cometae) distare a
+nodo 831. 38', et esse in Φ 27Ψ. 43'. cum latitudine australi 7⁸¹. 34' ; et
+ejus latus rectum esse 236.8,“areamque radio ad Solem ducto singulis
+. diebus descriptam 93585, quadrato semi-diametri orbis magni posito1
+10000000ος cometam vero in hoe orbe secundum seriem signorum pro—
+cessisse, et Decemb. 8²¹. 0¹², 4'. p. m. in vertice orbis seu perihelio fuisse.
+Haec omnia per scalam partium aequalium et chordas angulorum ex
+tabula sinuum naturalium collectas determinavi graphice, construendo
+schema satis amplum, in quo videlicet semi-diameter orbis magni (partium
+10000) aequalis esset digitis 16} pedis Anglicani. ,
+
+Tandem ut constaret an cometa in orbe sic invento νει-ὲ moveretur,
+collegi per operationes partim arithmeticas partim graphicas loca cometae
+in hoc orbe ad observationum quarundam tempora: uti in tabula se-
+quente videre licet -
+
+Dist. Co- Mag-Collect- Lat-Collect. Long.0bs. Lat. obs. Differ.
+met. a Sole. Long.
+
+15. 29} 316.ωὲ 15. 27
+29.19{ 12. 4 ‘es-207 12.
+
+ 
+
+Postea vero Halleius noster orbitam (⁶) 'per calculum arithmeticum ac-
+curatius determinavit, quam per descriptiones linearum fieri licuit ; et
+
+(ο) 157. * Per calculum arithmeticum. Cal-
+culi hujus instituendi methodum exponemus.
+Sit S Sol. V R A orbita cometae parabolica,
+cujus vertex V, sitque V S, distantia umbilici a
+vertice = f, erit parabolae latus rectum prin-
+cipale= 4 f. Fiat A D = x, erit spatium
+
+v R A s= ¹ ³ {gfff ² ¹ (140). Ponatur
+
+area illa dato rectilineo aequalis putri b b, habe-
+‘bituraequatio 24fbb=x3÷ 12 f² x. Re-
+soluta hac aequatione cubica per vulgares algebrae
+regulas, vel per constructionem geometricam,
+adhibitis parabolfi‘et circulo, innotescet ordinatim
+applicata A D. Data autem A D, dabitur V D,
+(per Theor- 11. de parab) quare nota quoque
+erit recta composita ex D V et V S, cui aequalis
+est recta S A, (ibid. ), ideoque recta illa dabitur
+
+ 
+
+ 
+

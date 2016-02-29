@@ -1,0 +1,145 @@
+Limen Tam-wa] PRINCIPIA MATHEMATICA. ' 9
+
+variatio ibi major sit vel minor, augeri debet vel minui sinus ille versus in
+
+eadem ratione.
+
+PROBLEMA.
+
+Ex hypothesibus et demonstratis in Proposi-
+tione hac XXVI. exponere rationem secundum
+quam describuntur areae C T P A momenta.
+
+Designet recta C A (in 2¹¹³· figura) tempus
+quo arcus C A describitur, erigantur per singula
+puncta P rectae P M perpendiculares in C A et
+pr'oportionalae velocitati tempore C P per vim
+E L genitae; per ea quae in hac Propositione
+demonstrantur independenter ab his, illae veloci-
+tates in punctis P arcus C P sunt ut trapezia
+F K C G correspondentia, illa νει-ὀ trapezia sunt
+ut sinus versi duplicatae distantiae Lunae a quad-
+taturi proxir‘na, sive ut sinus versus arcus dupli
+C P, (ut mox in notis explicabitur) fiant ergo
+illae perpendiculares P Μ aequales sinui verso
+arcus 2 C P, ultima perpendicularis A H erit
+aequalis ipsi diametro A B, quia est sinus versus
+dupli quadrantis; ducatur curva C M H per
+omnium dicularium vertices transiens, du-
+catur etiam A R. perpendicularis ad C A, sitque
+A H ad A R ut velocitas ultim& acquisita in A
+εὖ velocitatem uniformem qua Luna ferretur si
+
+     
+
+1¹:11 R.
+
+vis E L omnino non ageret, absolvaturque par-
+allelogrammum A R E C, productaque linea
+
+Ι MPusqueadlineamREtotalinea IM erit
+
+ut velocitas Lunae tempore C P, et ducta linea
+quamproximampi‘eritareaM P I m pi utarae
+descriptatempore Pp, ettotaareaREc-MH
+repraesentabit totam aream tempore C A descrip-
+tam3 denique secetur A H in X et ducatur X Y
+parallelaCAquae secetcurvam cMH in Z
+et ex puncto Z dueatur ordinata Z Q, Liquet
+
+quod si punctum X ita sit assumptum ut paral-3
+
+lelogrammum X R E Y sit aequale mixtilineo
+H ARECMH, erit XR velocitasLunae
+mediocris, et C Q tempus quo Luna a quadra*
+tura- profecta ad eam velocitatem mediocrem
+perveniet. quod quidem ex ipsa constructione
+
+liquet. Jam autem dieo quod illud punctum X
+incidet in medio lineae A H, ita ut haec velocitas
+mediocris X R. sit media proportionalis arithme-
+tica inter R A et R H et praeterea quod punc-
+tum Q, cadet in mediointerAet c, ita ut aa
+celeritas mediocris in uetante obtineatur, (saltem
+εἰ medium arcfis medio temporis respondeat,
+quod proxime verum est juxta notam 110 prae-
+cedentem).
+
+Ut obtineatur itaque area HAPCMH,
+dicatur v arcus C Petdieatur mv recta C P
+quae arcui C P est proportionalis (saltem quam
+proxime per not. 110.) et P p sit m d v, sinus
+rectus P K arcus C P dicatur y, sinus vert}
+totalis sit r. Ex notis trigonometriae principiis
+sinus versus dupli arcus C P eet 215, ergo
+
+ 
+
+ordinata P M ei aequalisoet 2 y y, et elementum
+
+r
+255
+r
+proprietatecirculi est Mrr—yyadrutdy
+
+addv,estergodv= 'dy itaqueareae
+Vrr-yy
+
+elementum evadit Q conferatur illud
+
+ν rr—yy , , ,
+elementum eum elemento areae cuculi, radio
+
+T c descripti, dicatur c K, z, K k, d z. ele-
+menQP—pkKestydz‚sedestTK
+(νττ-Π)8ῐ1ΡΚ(γ)υιΡ«ι(ᾱι> adqp
+(aa) hincd2= Υ ‘¹5
+
+ν r r - y y
+ωωοῑιωιῑῆι--ι--νζζᾶ ’Π
+ad elementum correspondens areae H A P C M Η
+ut 1 ad 2m, hincwtahaecarea est ad aream
+qussdmnfis Τ C P A ut -2 m adl, sive si totus
+arcus C P A dicatur c et recta C P A dicatur
+mc,areaH APCMHeritmrc. Ergosi
+linea A R quae designat velocitatem uniformem
+Lunae, cum nulla foret vis E L, dicatur Ι, area
+A RECeritmlcettotaareaHARECH
+erit m l c -1- m ι- c, sive aequalis parallelogram-
+33 3:³¹3 ssssffiffissss‘g ἓςῗξιῖἲ {³11¹ 0¹ ⁴432
+parallelogrammum
+XREZ erit aequale mixtilineo H A R E C M H,
+ide6que erit R X sive 1 ÷ r velocitas Lunae
+mediocris, sed erat A H = 2 r, ideoque R H
+=l-}·-2r est ergo RX (1÷r)mediapro-
+portionalis arithmetice inter R A (l) et R H
+(1-1- 2 r), ergo velocitas mediocris Lunae est
+media proportionalis arithmetice inter minimam
+velocitatem Lunae (l) et maximam (l 4- 2 r).
+
+Quoniam vero ordinata Z Q= A X = r est
+sinus versus arcus dupli C P, et est r sinus versus
+arcus quadrantalis, ergo in hoc casu C P ejus
+
+ 
+
+ 
+
+areaesiveMPpmoet mdv,sedex‘nota
+
+ 
+
+ 
+
+ 
+
+et elementum a·
+
+ 
+
+ 
+
+quod elementum est
+
+si sumatur RX=1÷ r
+

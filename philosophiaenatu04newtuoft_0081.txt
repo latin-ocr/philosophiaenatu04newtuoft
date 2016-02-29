@@ -1,0 +1,125 @@
+Luam Tam-ms] PRINCIPIA MATHEMATICA.
+
+ab illo discedens, ito ut ejus motus assumi pos-
+sit quasi lieret in eo circulo.
+
+Nam fingatur eam vim extraneam non esse
+constantem, sed talem ut, post discessum corpo:
+ris P a circulo A D B C propter ejus vis extra-
+neae actionem, residuum vis quam exercet eorpus
+T in distantia ad quam abit corpus P (detracta
+ea vi extranea) sit semper inverse ut cubi dis-
+tantiarum eveniet ut (per Prop. IX. Lib. 1.
+Princip·) ³corpus P spiralem logan'thm3cam de-
+scribat, in quassangulus curvae cum radio ad cur-
+vam ducto semper manet idem3 verum quoniam
+ab initio via illa extranea fuit constans, liquet
+quod priusquam corpus P circulum a d b c atti-
+gerit, ea vis· plus imminuebat vim centralem quam
+ut decrescat secundum cubos distantiarum auc-
+tarum, ideoque quod anguli curvae cum radio ad
+curvam ducto semper crescere debuerunt, sed
+incremento perpetuo minore quo magis accedit
+virium deme-centium ratio ἢ rationem inversam
+
+ 
+
+cubi distantiarum; perveniet ergo corpus P ad
+circulum a d b c, et angulus curvae cum radio,
+quando P erit in circulo a d b c, erit recto major,
+quia semper crevit is angulus a tempore quo cor-
+pus P circulum A D B C describebat in quo
+angulus radii cum curva rectus est; ideo P ultra
+circulum a d b c perget; cum autem P ultra
+circulum a d b c pervenerit, detractio vis con-
+stantis vim centralem minus minuet quam se-
+cundum cubum distantiamm ς itaque angulus
+curvae cum radio minor fiet quam si logarithmica
+spiralis describeretur, et tandem reducetur ad
+angulum rectum ultra circulum a d b c, inde
+vero curva cum radio faciet angulum acutum,
+nam vis centralis illic major est quam ut circulus
+desa-ibi possit, quod sic demonstrari potest; areae
+aequalibus temporibus descriptae durante toto hoc
+corporis P motu sunt ubique aequales, quoniam
+vires ad centrum T constanter diriguntur (ex
+Hyp.) ideoque in eo locoultra circulum a d b c
+in quo angulus curvae cum radio fit rectus, arcus
+dato tempore descriptus foret ipsa basis areae de-
+scriptae cujus altitudo est distantia a centro seu
+ipse radius, et is arcus debet esse ad arcum qu'i
+eodem tempore descriptus fuisset a corpore P si
+
+65
+
+incirculo A D Β C moveri perseverasset, nulla-
+que vis exn-anea accessisset inverse ut radii ;
+sagittae autem eorum arcuum (quae sunt semper
+ut quadrata arcuum divisa per radios) forent
+inverse ut cubi radiorum, sed vis centralis ultra
+circulum a d b c, minus decrescit quam secun-
+dum cubum distantiarum, ergo sagitta arcsts
+descripti quae est ejus vis centralis effectus, major
+est sagitta quae foret secundeum rationem inver-
+sam cubi distantiarum, ergo ea sagitta quae per
+vim centralem producitur, major est illa quae
+obtineretur si circulus in eo loco describeretur ;
+ergo corpus P a tangente magis discedit versus
+oentrum quam si circulum describeret, ergo ejus
+via acutum angulum cum radio efficere incipit,
+sicque accedit iterum ad circulum a d b c angulis
+curvae cum radio perpetuo decrescentibus3 cum
+autem infra eum circulum transiverit angulus
+quem facit curva cum radio, iterum augetur,
+donec is angulus rectus evadat, iude vero fiet
+obtusus quia vis centralis illic minor est quam ut
+corpus P in circulo moveri pergat; redit ergo
+corpus P versus circulum a d b c idque perpetua
+oscillatione, ut liquet ex collatione motus quern
+haberet in logarithmica spirali cum hoc motu:
+sed quo minor est vis illa data quae ex centrali
+detrahitur, eo illae alternae oscillationes minus a
+circulo a d b c recedent, quare si vis ea exigua
+supponatur respectu vis centralis corporis T,
+supponi etiam potest motum corporis P in cir-
+culoadbcfiet. Q.e.d. ⁸
+
+Cor. l. Si vis illa extranea et constans per.
+petuo traheret corpus P versus T, iisdem argu-
+mentis ostendetur quod si describatur circulus
+interior a δ β n, in tali distantia a centro T, ut
+vis corporis T ad eam distantiam aucta per vim
+illam extraneam sit ad vim in circulo A D B C
+inverse ut cubi radiorum circulorum A D B C,
+a δ β x, corpus P hinc iude cis citrave circulum
+a δ β κ oscillatur, et si ea vis extranea sit exigua,
+censeri potest quod eorpus P in eo ipso circulo
+a δ β n movebitur.
+
+Cor. 2. Et si vis illa extranea constans non
+soret, sed cresceret secundum aliquam dignitatem
+positivam distantiarum, iisdem omnino ratiociniis
+ostendi posset quod corpus P in circulo a d b c
+vel ω δ β 2 movebitur, eveniet solummodo ut
+radius T p paulum diversus sumi debeat ab eo
+qui inveniretur si vis ea extranea constans foret.
+
+Schol. Aliis methodis effectum illius vis ex-
+traneae ad calculos revocari posse non negamus,
+et quidem unam aut alteram methodum ab hac
+diversam eumdem in finem in sequentibus pro-
+ponemus.
+
+THEOR. 11.
+
+Positis iis quae in primo Theon-emate suppo-
+nuntur, dicatur r radius circuli A D B C, sit g
+radius circuli a d b c, vel a δ β κ, sit p radiorum
+r et e differentia; vis corporis T in distantia r
+dicatur V et in eadem distantia vis extranea di-
+catur Y quae crescat ut distantiae a centro T et
+quae positiva censeatur si distrahat corpus P a
+centro, negativa vero si illud attrahat ad centrum,
+
+E4
+

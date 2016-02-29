@@ -1,0 +1,55 @@
+Lmen Teuma] PRINCIPIA MATHEMATICA. 139
+
+LEMMA VII.
+
+Per datum punctum P ducere rectam lineam B C, cujus partes P B, P C,
+rectis duabus positione datis A B, A C, abscissae, datam habeant rationem
+ad invicem. E
+
+A puncto illo P ad rectarum alterutram A B
+ducatur recta quaevis P D. et producatur
+eadem versus rectam alteram A C usque ad
+E, ut sit P E ad PD in data illa ratione.
+Ipsi A D parallela sit E C; et si agatur
+CPB‚eritPCadPButPEadPD.
+
+Q·e·f· '
+
+ 
+
+LEMMA VIII.
+
+Sit A B C parabola umbilicum habens S. *Chorda A C bisecta in 1 abscin-
+datur segmentum A B C Ι, cujus diameter sit I μ et vertex μ. In I μ ·
+producta capiatur μ, Ο aequalis dimidio ipsius Ι μ. fingatur Ο S, et
+producatur ea ad ξ, ut sit S ξ aequalis 2 S Ο. Et si cometa B moveatur
+in arcu C B A, et agatur ξ Β secans A C in E: dico quod punctum E
+abscindet de chorda A C segmentum A E tempori proportionale quam-
+proxime.
+
+Jungatur enim E O ἒξ,
+secans 8181118 paraboli-
+cum A B C in Y, et
+agatur μ. Χ, quae tangat
+eundem arcum in vertice
+μ, et actae E O occurrat
+in X; (⁸) et erit area curvilinea A E X μ, A ad aream curvilineam
+ACYfaA ut ΑΕ ad AC. Ideoque cum triangulum ASE sit ad
+
+ 
+
+(² )* Et erit area. Quoni 18111 chorda A C figur& aliquae lineae ad vitandam confusionem)
+bisecta estin 1, erit semi· -segmentum A μ Ι cu um idem sit trianguli utriusque vertex A, sitque
+aequale semi- ·588ι’8811ωμ Ι C. Item quia μ Χ basis Ο Ι sesquialtera basis μΙ, triangulum veri)
+tangi lt parabolam ὶιιμ, 81ἰιμ Χ, 8818181818 chor- A μ, 1, subsesquitenium ωε semi-segmenti A μ 1
+dae A C (881 lem-us IV. de coni-c Lib. Ι.) 88 (Ρ108. XXIV. Archimed. de parab. vel Τ11801.
+pr mind& tr1 8881818 Ο I E simiel est triangulo lv. de 88181). Lib. 1.). Quare triangulum
+O μ X‚1ide6que ob 1 Ο triplam 185 5185 μ Ο,8 rit A O Ι est sesquioctavum semi-segmenti A μ 1,
+
+8188881818 Ι O E 818118811μο X, nonen 8111111Δ 1108 est, in 18110118 ecomposita ex rationibus sses-
+et 8188881818 Ι O E trapezii 1 μ, Χ Ε, soequi- quialtera ets subsesquitemaac proinde triangulum
+octavum. PraeoereamangulumIAo,estu-i- A01‚aetadsemi-segmentumAp 151881111-
+ungu li Ι Α μ, sesquialterum (omittuntur in angulum 1 O E, ms³ trapezi um μ μΧ 1 E, et
+
+Vo1.. 111.P.u;s 11. K
+

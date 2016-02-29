@@ -1,0 +1,144 @@
+Luma Tannus] PRINCIPIA MATHEMATICA.
+
+121
+
+quadrata ad tres ex circulis sibi inscriptis: et motus cylindri ad motum
+annuli tenuissimi, sphaeram et cylindrum ad communem eorum contactum
+ambientis, ut duplum materiae in cylindro ad triplum materiae in annulo;
+et annuli motus iste circum axem cylindri uniformiter continuatus, ad ejus·
+
+dem motum uniformem circum diametrum propriam, eodem tempore peri-
+odico factum, ut circumferentia circuli ad duplum diametri.
+
+HYPOTHESIS ΙΙ.
+
+Si annulus praedictus T md omni reliqu& εαόἶαιά, solus in orbe Terrae, motu
+annuo circa Solem ferretur, et interea circa axem suum ad planum ecliptica:
+in angulo graduum 23} inclinatum, motu diurno revolveretur .- idem fmet
+
+*motus punctorum aequinoctialium, sive annulus iste fluidus esset, sive is ex
+
+materici rigida etfirmci constaret.
+
+Quare, per compositionem rationum et ex aequo,
+motus sphaerae cirea axem proprium est ad mo·
+tum annuli ut n ³ ad 64 m. Est autem n ³ ad
+
+2 n
+
+ 
+
+‘minut-3 χ ¹6 ad 8 xm, sed-ff, est
+quantitas materia! in Terra¹i3 m, quantitas mate-
+
+ὄπ’
+
+ 
+
+riae in annulo est summa trium quadrato-
+
+rum ex arcu quadrantali circuli A F B, et 8 est
+summa duorum quadratorum ex diametro A B.
+Quare motus Terrae totius circum axem jam
+ante descriptum, ex motibus particularum om-
+nium compositus erit ad motum annuli praedicti
+circum axem eundem, in ratione quae componitur
+ex ratione materiae in Terra ad materiam in an-
+nulo, et ratione trium quadratorum ex arcu qua-
+drantali circuli cujuscumque ad duo quadrata ex
+diametro, id est, in ratione materioe ad materiam
+et numeri 925275 ad numerum 1000000, posita
+ratione diametri ad peripheriam ut 1 ad &141
+quamproxime. Q, e. d.
+
+12⁷. Lemma. Semi-axe majori C A et mi-
+nori C P, describatur semi-ellipsis P A p, atque
+radio C P, describatur semi-circulus P a p, circa
+axem P p revolvi concipiantur tum semi-circulus
+tum serni-ellipsis, erit sphaera motu semi-circuli
+Ι genita ad sphaeroidem semi-ellipseos revolutione
+descriptam ut C a² ad C A2. Sit pe=x,
+
+Ge=y,Cp=r,CA=a,exprimatqueL
+
+Ρ
+rationem radii ad peripheriam, erit Ψ, periphe-
+ria circuli radio G e descripti. Praeterea (ex
+
+natura ellipseos 248· Lib. 1.) Ca(r) ε C A (a)
+= Ge (y) : Egideoque Ee=a—ry-, binc
+pay
+rr
+
+ 
+
+peripheria circuli radio E e descripti =
+
+ejusdemque circuli area = 9-3——3—{35 area au·
+
+tem circuli maio G e descfipti est ¹23er Quare
+pa²y²dx
+
+fluxio sphaeroidis fit 2 r ³
+
+py²dx
+2r
+= 2 r x — x x; hinc fluxio sphaeroidis est
+2p42rxdx—pa212dx “fluxiosphaerae
+‘lt-³ ³
+
+2prxdx-pxxdx . , .
+-υ-ἷτ--η sumptisque fluennbus,
+
+, et fluxio spbae-
+
+ 
+
+τε est
+
+ 
+
+. ,ι Sed (ex natura circuli) y ²
+
+erit fluens prima ad alteram ut Εἶζ-ξέ ⁸·-
+pa²x³ prx² px3
+6r³ ad 2r δι’
+stituatur 2 r. erit sphaerois tota, ad totam Sphae·
+4pa²r³ 8pa²r³ 2⁹¹³
+
+r³ 61³¹ r
+
+. Jam loco x, sub-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ramut
+
+ 
+
+ 
+
+8pr³
+δι·
+
+ 
+
+, hoc est, ut a ². ad r ², sive in ratione
+
+A
+
+„
+
+duplicati C A ² ad C a ². Simili argumento
+patet sphaeram ellipseos semi-axe majori tauquam
+
+⁹. radio descriptam esse ad ellipsoidcm in ratione
+
+duplicata semi-axis majoris ad minorem.
+

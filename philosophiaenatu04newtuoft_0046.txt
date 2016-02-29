@@ -1,0 +1,99 @@
+30 PHILOSOPHIAE NATURALIS [Da Mum). Srsr.
+
+Corol. 1 .
+
+Hinc. si a dati arcfis quam minimi P M terminis P et M ad
+
+lineam quadraturas jungentem an demittantur perpendicula P K, M k,
+
+eademque producantur donec secent
+lineam nodorum N n in D et d 3 erit
+motus horarius nodorum ut area
+M P D d et quadratum lineae A Z
+conjunctim. Sunto enim P K, P H
+et A Z praedicti tres sinus. Nempe
+P K sinus distantiae Lunae a quad-
+ratura, P H sinus distantiae Lunae a
+nodo, et A Z sinus distantiae nodi
+a Sole: et erit velocitas nodi ut
+
+contentum P K Χ Ρ Η Χ Α Ζ.
+
+ 
+
+(Ρ) Est autem PTad P K ut PM
+
+ad K k, ideoque ob datas P T et P M est K k ipsi P K proportionalis.
+
+Est et A T ad P D ut A Z ad P H, et propterea P H rectangulo P D
+Χ Α Ζ proportionalis, et conjunctis rationibus P K Χ Ρ Η est ut con-
+
+Sit N ubivis in quadrante B T Q, et P inter
+Q et n vel inter q et N primo casu omnes angu-
+ios fore positivos, altero angulos QT P et N T P
+fore negativos, ut in praecedenti, demonstrabitur.
+
+Denique angulus S T N sit negativus, et P
+non sit inter quadraturam et nodum, sed alibi
+ubivis, alteruter ex angulis Q T P, N T P po-
+sitivus erit, negativus alter; sit N in quadrante
+A T q et P in arcu Q A N (quadrante major)
+erit Q T P positivus et N T P negativus, siqui-
+
+ 
+
+dem P estin antecedentia respectu N, sit P in
+
+arcu q B n erit Q T P negativus, sed N T P -
+positivus, nam arcus N P in consequentia sump- ”
+
+tus semi-circulo minor erit.
+
+Sit N in quadrante q T R, si Ρ sit in arcu
+n q, angulus Q T P positivus est, sed angulus
+N Τ Ρ negativus, quia arcus N n -ἦ- n P semi-
+circulo major est, si P sit in arcu N Q angulus
+Q T P est quidem negativus, sed quia P est in
+
+consequentia respectu N minusque semi-circulo
+distat, ergo angulus N T P est positivus3 hinc
+ubivis sit P, si modo non sit inter nodum et
+quadraturam proximam, vel omnes anguli erunt
+positivi, vel duo simul negativi, alter vero posi-
+tivus. .
+
+cum ergo arcus inter N vel n et quadraturam
+proximam, nunquam excedat quadrantem, eoque
+sit saepe minor; e contra vero, arcus inter N vel
+n et quadraturam remotiorem nunquam sit minor
+quadrante et saepe eo major, majori parte revolu-
+tionis Lunae, nodi regrediuntur et per excessum
+regressus supra progressum, singulis mensibus
+nodi feruntur in antecedentia.
+
+Potuissent Articuli 4. supra demensa-ati, ex
+
+. sola vi signorum algebraicorum deduci, eamque
+
+demonstrationis speciem adhibere videtur New-
+tonus; at alicui negotium facessere potuissent
+horum signorum mutationes in angulis spectata,
+in quibus cum angulus ad semi-circulum crevit
+et maximus sit, mox negativus evadit, quod sane
+non evenisset si viae descriptae, non ver& anguli
+considerati fuissent3 juvant algebmioe illaeeon-
+sequenfiae, in retegeudis prompte Pmpositionibus
+iisque ad generalissimas expressiones revocandis,
+sed in nonnullis questionibus ad certitudinem
+plenam idearumque claritatem requiritur ut, per
+casuum enumerationem, illae algebraicae conseq
+quentiae, velut ad Lapidem Lydium explorentur.
+Caeterum, quamvis figuras unicuique casui pro·
+prias non delineaverimus. facile erit ex iis quae
+sculptae sunt, figuras deficientes imaginari aut
+describere. -
+
+(Ρ) ” Est autem P Tad PKutPMaaKkex
+notissima circuli proprietate radiumesse ad ordi-
+natam. ut est fluxio arcus ad fluxionem abscissae.
+

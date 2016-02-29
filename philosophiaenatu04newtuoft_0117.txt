@@ -1,0 +1,119 @@
+Lam Tum-msa PRINCIPIA MATHEMA'rch. 101
+
+(θ) In aliis Solis distantiis hoec aequatio maxima in octantibus nodorum est
+reciproce ut cubus distantiae Solis a Terra, ideoque in perigaeo Solis ad
+49“. in apogaeo ejus ad 45'‘. circiter ascendit. ⁷ .
+
+(Υ) Per eandem gravitatis theoriam apogaeum Lunae progreditur quam
+maxime ubi vel cum Sole conjungitur vel eidem opponitur, et regreditur
+ubi cum Sole quadraturam facit. (Β) Et eccentricitas fit maxima in
+priore casu et minima in posteriore, per Corol. 7, 8, et 9. Prop. LXVI.
+Lib. I. Et hae inaequalitates per eadem Corollaria permagnae sunt, et
+aequationem principalem apogaei generant, quam semestrem vocabo.
+(Β) Et aequatio maxima semestris est 123'. 18'. circiter, quantum ex
+observationibus colligere potui. Horroxius noster Lunam in ellipsi
+circum Terram, in ejus umbilico inferiore constitutam, revolvi primus
+statuit. Halleius centrum ellipseos in epicyclo locavit, cujus centrum
+uniformiter revolvitur circum Terram. (¹) Et ex motu in epicyclo ori-
+untur inaequalitates* jam dictae in progressu et regressu apogaei et quantitate
+eccentricitatis. Dividi intelligatur distantiamediocris Lunae a Terrt‘i in
+
+(Ε) ‘ In aliis Solis dtecaneiis. Eadem piane
+est demonstratio ac in nota (Υ) praecedente3 cum
+
+{2521 “³2¹”in diversa solis
+
+a Terra distantia X, loco a scribatur X, loco F,
+a²F FaM² 3M²a³l²
+
+in posteriore, cnm nempe apsides sunt in quad-
+
+raturis. ld utique statuitur toto calculo de ex·
+
+ceutria-itate orbitae lunaris superius pag. 91. et
+. ι .
+
+'wlhffidEtl'aequatio maa-ima semestris, &co Hanc
+
+ex observationibus determinandam liquet cum
+
+non satis feliciter obtineatur absoluta quantitas
+
+ 
+
+ 
+
+aequatio fit
+
+ 
+
+loco -ῦ, ,ΤΧ-Ζ, aequatIo evadit m
+
+ 
+
+ 
+
+>42² ‚ 2 n m motfis apogaei per calculos secundum Newtoniana
+zm et in octantibus quia r = r, aequa- Principia institutos3 methodus autem a nobis in-
+
+dicata est admodum incompleta et rudis, et in ei
+multa, quae considerari debuissent, sunt omissa:
+hinc cum in caeteris motibus Lunae et aequationi-
+bus ad votum succedat theoria Newtoniana, in
+hoc casu aliquid adhuc desiderari, fatendum est.
+
+(ἰ) ⁴* Et ez· motu in epicyclo. Ingeniose et
+
+tio est ἕξω-Ἠ, ideoque aequationae in oc
+rantibus in1diversi Solis a 'reni distantia, sunt
+inter se inverse ut X ³, si fiat itaque ut cubus
+maximae distantiae Terrae a Sole qui est x.o516‚
+
+ad cubum 1 mediocris distantiae, ita 47¹¹. aequatio
+pro mediocri distantia inventa erit ad 45''. circiter,
+eaque erit aequatio in maxima distantia Solis a
+Terra, et ut -950107 cubus minimae distantiae ad
+1, ita 47⁸. ad 49⁹. circiter, quae erit aequatio maxi-
+ma cum Sol erit in perigaeo. Eadem etiarn
+ratione ac in nota (²) ostendetur quomodo in
+quavis Solis a Terra distantia, et in quavis posi-
+tione nodi respectu Solis aequatio obtineri debeat.
+
+(f) * Per eandem gravitatis theoriam apogaeum
+Lunae progreditur quam maa-ime, ἃς. Per me-
+thodum ex ipsis Newtoni Principiis derivatam
+invenimus (pag. 86. et seq.) motum apsidis esse
+ut 3 y y ¹—- r r, sumendo y pro sinu distantiae
+apsidis a quadratur& is ergo motus, juxta hunc
+calculum, evanescit cum y μ 8 = r, cum nempe
+y est sinus arcus 853‘. 15¹, positivus vero est in
+syzygiis ; illic enim fit 8 y y — r r = 2 r r ne-
+gativus iu quadraturis3 illic enim est Syy — rr
+= — r r.
+
+(ὅ) ’ Ee eccenericitasffl maa-uma in prim· casu,
+cum nempe apsides sunt in syzygiis, et minima
+
+feliciter conjunctas esse unica constructione geo-
+metrica excentricitatis variationes, et motus apo-
+gaei aequationes, ex iis quae de excentricitate
+dicta sunt pag. 94. intelligi potest3 illic enim
+ostenditur quod si T C sit excentricitas media f,
+C B maxima excentricitatis variatio ab excentri-
+citate mediocri, B F arcus duplus distantia.¹ ap-
+sidis a syzygia, tunc linea T F est ementi-ficitas,
+ostenditur vero, Probl. ΙΙ. pag. 95. variationem
+maximam excentricitatis quae est A B tam' ex
+observationibus quam consentiente calculo sumi
+posse 1172 partium quarum radius orbitae lunaris
+est 100000 et excentricitas T C 5505, simul
+autern cum constet ex observationibus equatio-
+nem semestrem apogaei 123¹. 18¹· esse, ejus an-
+guli sinus est partium 1172 radio existente par- ’
+tium 5505, ut liquet si fiat ut radius looeOO ad
+sinum anguli 12⁸¹· 18'. qui est ‘21803 ita 5505
+ad quartum qui est 1172& hinc illum numerum
+pro' maxima variatione excentricitatis selegit
+Balleius, quia non procul est ab iis quos et
+observationes et calculus indicant, simulque est
+
